@@ -2,7 +2,7 @@
 
 ### Olá! meu nome é Rafael Mesquita 😁
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafaeltimesquita)
+[![linkedin](https://www.linkedin.com/in/rafael-mesquita-84993a328/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafaelmesquitarr5@gmail.com)
 
 
