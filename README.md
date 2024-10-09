@@ -17,4 +17,4 @@
 <img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div><br/>
 
-#### Estou começando agora na área e estou aberto a aprender mais sobre o assunto. Aceito dicas!
+
