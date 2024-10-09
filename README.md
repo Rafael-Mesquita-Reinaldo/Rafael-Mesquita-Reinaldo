@@ -1,8 +1,6 @@
-
-
 ### Olá! meu nome é Rafael Mesquita 😁
 
-[![linkedin](https://www.linkedin.com/in/rafael-mesquita-84993a328/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mesquita-84993a328/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafaelmesquitarr5@gmail.com)
 
 
@@ -16,5 +14,3 @@
 <img aling="center" alt="PHP"src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div><br/>
-
-
