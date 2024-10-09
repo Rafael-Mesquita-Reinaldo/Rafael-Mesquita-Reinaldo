@@ -1,22 +1,20 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
- <div>
-   <a href="https://github.com/Rafael-Mesquita-Reinaldo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Mesquita-Reinaldo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Mesquita-Reinaldo&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Para entrar em contato!
- 
-<div> 
- <a href = "rafaelmesquitarr5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/rafaeltimesquita" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
+### Olá! meu nome é Rafael Mesquita 😁
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafaeltimesquita)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafaelmesquitarr5@gmail.com)
+
+
+![Rafael Mesquita GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Mesquita-Reinaldo&show_icons=true&theme=dark)
+
+## Tecnologias usadas 
+
+<div style="display: inline_block"> <br/>
+<img aling="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img aling="center" alt="CSS3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img aling="center" alt="PHP"src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</div><br/>
+
+#### Estou começando agora na área e estou aberto a aprender mais sobre o assunto. Aceito dicas!
